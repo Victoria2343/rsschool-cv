@@ -16,7 +16,7 @@ Basic knowledge of HTML, CSS and beginner in JS.
 ### Professional Experience:
 
 I have no experience of commercial development I study on my own, using online courses and Google.
-So you can see my training projects on [GitHub]: (https://github.com/Victoria2343)
+So you can see my training projects on [GitHub:](https://github.com/Victoria2343)
 
 ### Education:
 
