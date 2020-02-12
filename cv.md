@@ -5,6 +5,10 @@
 1. E-mail: victoriadenisevich@gmail.com
 1. Phone number: +37529-2195005
 
+### Summary:
+
+I work as an accountant now. And my work doesn't satisfied me. I think that 'a frontend-developer' is more interesting and developing profession. And I hope that my soft-skills (communicative, time-organised) also will help to achieve my goals.
+
 ### Skills:
 
 Basic knowledge of HTML, CSS and beginner in JS.
