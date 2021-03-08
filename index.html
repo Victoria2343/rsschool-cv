@@ -7,24 +7,27 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+    <div class="container">
     <header>
-      <h1>Victoria Osipovich</h1>
+      <div class="photo">
       <img
         src="img/myphoto.jpg"
         alt="Victoria Osipovich"
-        width="415"
-        height="280"
       />
+    </div>
+      <div class="contacts">
+      <h1>Victoria Osipovich</h1>
+          <a href="mailto:victoriadenisevich@gmail.com" class="contacts_email">
+            <img src="img/icon-email.svg" alt="E-mail">
+            victoriadenisevich@gmail.com</a>
+          <a href="tel:+375292195005" class="contacts_phone">
+            <img src="img/icon-phone.svg" alt="Phone">
+            +375292195005</a>
+        
+      </div>
     </header>
     <main>
-      <div class="contacts">
-        <h3>Contact Info:</h3>
-        <ol>
-          <li>E-mail: victoriadenisevich@gmail.com</li>
-          <li>Phone number: +37529-2195005</li>
-        </ol>
-      </div>
-      <div class="summary">
+      <section class="summary">
         <h3>Summary:</h3>
         <p>
           I work as an accountant now. And my work doesn't satisfied me. I think
@@ -32,20 +35,20 @@
           profession. And I hope that my soft-skills (communicative,
           time-organised) also will help to achieve my goals.
         </p>
-      </div>
-      <div class="skills">
+      </section>
+      <section class="skills">
         <h3>Skills:</h3>
         <p>Basic knowledge of HTML, CSS and beginner in JS.</p>
-      </div>
-      <div class="experience">
+      </section>
+      <section class="experience">
         <h3>Professional Experience:</h3>
         <p>
           I have no experience of commercial development I study on my own,
           using online courses and Google. So you can see my training projects
           on <a href="https://github.com/Victoria2343">GitHub</a>
         </p>
-      </div>
-      <div class="education">
+      </section>
+      <section class="education">
         <h3>Education:</h3>
         <ul>
           <li>
@@ -56,15 +59,21 @@
           <li>HTML Academy</li>
           <li>Udemy (I study JS here)</li>
         </ul>
-      </div>
-      <div class="english">
+      </section>
+      <section class="english">
         <h3>English:</h3>
         <p>
           I have A2 level. But I've already started to improve my English,
           especially spoken language.
         </p>
-      </div>
+      </section>
     </main>
-    <footer>Resume, 2020</footer>
+    <footer>
+      <p>Resume, 2021</p>
+      <a href="https://rs.school/js/" class="rs">
+        <img src="img/rs_school_js.svg" alt="Rs.school" class="footer_img">
+        Курс от сообщества The Rolling Scopes</a>
+    </footer>
+  </div>
   </body>
 </html>
